@@ -1077,3 +1077,8 @@ Poetry 是現代 Python 專案的最佳選擇:
 ---
 
 **Happy coding with Poetry! 🎉**
+
+### 將虛擬路徑建立在 目錄下
+``` bash
+poetry config virtualenvs.in-project true
+```

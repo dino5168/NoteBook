@@ -1,0 +1,1 @@
+![[Gemini_Generated_Image_s04sids04sids04s.png]]
